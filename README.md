@@ -58,7 +58,8 @@
 
 #### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,git,github" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
