@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, and building AI projects**
 
-- 📄 Know about my experiences [Open to internships and learning opportunities](Open to internships and learning opportunities)
+- 📄 Know about my experiences **Open to internships and learning opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
