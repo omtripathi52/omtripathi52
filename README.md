@@ -8,7 +8,7 @@
 <!-- Animated skills text -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;DSA+with+C%2B%2B;Android+%26+Kotlin+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;DSA+with+C%2B%2B"
     alt="Typing SVG"
   />
 </p>
@@ -16,10 +16,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Machine Learning, Data Science & Applied AI**
+- 🌱 Currently learning **Machine Learning, Deep Learning & Applied AI**
 - 👯 Looking to collaborate on **real-world AI / ML projects**
 - 🤝 Open to **internships and learning opportunities**
-- 💬 Ask me about **Python, ML, Data Science, AI & Android development**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, AI development**
 
 ---
 
@@ -39,7 +39,7 @@
 
 #### 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
 </p>
 
 #### 📊 Machine Learning & Data Science
@@ -58,7 +58,6 @@
 
 #### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
